@@ -1,3 +1,6 @@
+### 0.8.6 - 2017-10-29
+* Try docker deploy
+
 ### 0.8.5 - 2017-10-13
 * Test docker container before we ship
 
